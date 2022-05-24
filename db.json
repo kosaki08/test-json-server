@@ -1,6 +1,19 @@
 {
-  "user": {
-    "email": "admin@gmail.com",
-    "password": "password"
-  }
+  "users": [
+    {
+      "email": "user1@gmail.com",
+      "password": "password",
+      "trialRemainingDays": 7
+    },
+    {
+      "email": "user2@gmail.com",
+      "password": "password",
+      "isPremium": true
+    },
+    {
+      "email": "user3@gmail.com",
+      "password": "password",
+      "trialRemainingDays": -1
+    }
+  ]
 }
