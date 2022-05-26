@@ -3,12 +3,65 @@
     {
       "email": "user1@gmail.com",
       "password": "password",
-      "trialRemainingDays": 7
+      "trialRemainingDays": 7,
+      "gameData": []
     },
     {
       "email": "user2@gmail.com",
       "password": "password",
-      "isPremium": true
+      "isPremium": true,
+      "gameData": [
+        {
+          "id": "game-data-1",
+          "title": "ホラーゲーム",
+          "src": "https://images.unsplash.com/photo-1571989601904-c1b26bb0f25a?fit=crop&w=463&q=259"
+        },
+        {
+          "id": "game-data-2",
+          "title": "ホラーゲーム",
+          "src": "https://images.unsplash.com/photo-1571989601904-c1b26bb0f25a?auto=format&fit=crop&w=463&q=259"
+        },
+        {
+          "id": "game-data-3",
+          "title": "ホラーゲーム",
+          "src": "https://images.unsplash.com/photo-1571989601904-c1b26bb0f25a?auto=format&fit=crop&w=463&q=259"
+        },
+        {
+          "id": "game-data-4",
+          "title": "ホラーゲーム",
+          "src": "https://images.unsplash.com/photo-1571989601904-c1b26bb0f25a?auto=format&fit=crop&w=463&q=259"
+        },
+        {
+          "id": "game-data-5",
+          "title": "ホラーゲーム",
+          "src": "https://images.unsplash.com/photo-1571989601904-c1b26bb0f25a?auto=format&fit=crop&w=463&q=259"
+        },
+        {
+          "id": "game-data-6",
+          "title": "ホラーゲーム",
+          "src": "https://images.unsplash.com/photo-1571989601904-c1b26bb0f25a?auto=format&fit=crop&w=463&q=259"
+        },
+        {
+          "id": "game-data-7",
+          "title": "ホラーゲーム",
+          "src": "https://images.unsplash.com/photo-1571989601904-c1b26bb0f25a?auto=format&fit=crop&w=463&q=259"
+        },
+        {
+          "id": "game-data-8",
+          "title": "ホラーゲーム",
+          "src": "https://images.unsplash.com/photo-1571989601904-c1b26bb0f25a?auto=format&fit=crop&w=463&q=259"
+        },
+        {
+          "id": "game-data-9",
+          "title": "ホラーゲーム",
+          "src": "https://images.unsplash.com/photo-1571989601904-c1b26bb0f25a?auto=format&fit=crop&w=463&q=259"
+        },
+        {
+          "id": "game-data-10",
+          "title": "ホラーゲーム",
+          "src": "https://images.unsplash.com/photo-1571989601904-c1b26bb0f25a?auto=format&fit=crop&w=463&q=259"
+        }
+      ]
     },
     {
       "email": "user3@gmail.com",
