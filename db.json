@@ -66,7 +66,7 @@
     {
       "email": "user3@example.com",
       "password": "password",
-      "trialRemainingDays": -1
+      "trialRemainingDays": null
     }
   ]
 }
